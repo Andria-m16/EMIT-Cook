@@ -3,8 +3,8 @@
 Ce projet présente un site web dans le thème de la restauration que nous avons réalisé pour le cours de METU
 
 ### Membres du groupe
-![Andrianina](lesmembresdugroupe(1)/Andrianina.jpeg)
-![Finaritra](lesmembresdugroupe(1)/Finaritra.jpeg)
+![Andrianina](les%20menbres%20de%20groupe%20(1)/Andrianina.jpeg)
+![Finaritra](les%20menbres%20de%20groupe%20(1)/Finaritra.jpeg)
 - Dimby Finaritra
 ![](les menbres de groupe (1)\Dimby Finaritra.jpeg)
 - Antonio
