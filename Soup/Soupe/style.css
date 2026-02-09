@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IN+Guides&display=swap');
+
+body{
+    background: rgb(255, 142, 206);
+    background: url(./45ede0c8363d6969306cf6ee687f7c9e.jpg) center/cover;
+
+}
+.grid img{
+    height: 200px;
+    width: 200px;
+   ;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 25pt;
+    color: rgb(209, 14, 14);
+}
+h2{
+    font-size: 30pt;
+    color: rgb(56, 4, 4);
+}
+h3{
+    font-size: 35pt;
+    color: rgb(64, 15, 179);
+    text-decoration: underline;
+}
+h4{
+    text-align: center;
+    font-size: 20pt;
+    color: rgb(255, 0, 255);
+     font-family: "Playwrite IN Guides", sans-serif;
+}
+
+
+form1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.grid-container3 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.grid-container4 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+.grid-container5 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+img{
+    border-radius: 20px;
+}
