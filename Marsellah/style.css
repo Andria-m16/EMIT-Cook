@@ -1,0 +1,19 @@
+body {
+    background-image: url(3d__2-1920x1200.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: 100% auto ;
+    color: white;
+}
+
+h1{
+    font-size: 30pt;
+}
+
+
+p{
+    font-size: 20pt;
+}
+nav{
+    font-size: 25pt;
+}
