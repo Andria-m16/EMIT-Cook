@@ -1,0 +1,70 @@
+
+
+h1{
+    letter: spacing 2.5px; ;
+    text-align: center;
+    font-size: 30pt;
+    color: rgb(111, 28, 0);
+}
+body{
+    font-family: "DMserif" Verdana;
+    background-color: rgb(202, 203, 203);
+background: url(./Soupe\ 3.jpeg) center/cover;
+    /* VH =100% de la taille de l'ecrant */
+    min-height: 100vh;
+}
+ul{
+    font-size: 16pt;
+    line-break: loose;
+}
+#btn-submit{
+    margin: auto;
+    cursor: pointer;
+    background: rgb(218, 210, 5);
+    transition: 0.2s;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
+#btn-submit:hover{
+    background: rebeccapurple;
+    color: rgb(255, 255, 255);
+}
+h6{
+    font-size: 35pt;
+}
+img{
+    height: 400px;
+    width: 800px;
+}
+form{
+    border: 1px solid rebeccapurple;
+    padding: 20px;
+    width:fit-content;
+    border-radius: 20px;
+    box-shadow: 3px 3px 0 0 #cccccc;
+    margin: auto;
+}
+form div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    gap: 5px;
+    margin-bottom: 10px;
+}    
+
+form div input{
+    width: 400px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid rgb(0, 58, 145);
+
+}
+
+
+
+ 
