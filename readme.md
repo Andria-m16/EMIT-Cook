@@ -7,7 +7,7 @@ Ce projet présente un site web dans le thème de la restauration que nous avons
 
 ![Finaritra](les%20menbres%20de%20groupe%20(1)/Finaritra.jpeg)
 
-![Dimby Finaritra](les%20menbres%20de%20groupe%20(1)/Dimby_Finaritra.jpeg)
+![Dimby Finaritra](les%20menbres%20de%20groupe%20(1)/Dimby%20Finaritra.jpeg)
 
 ![Antonio](les%20menbres%20de%20groupe%20(1)/Antonio.jpeg)
 
